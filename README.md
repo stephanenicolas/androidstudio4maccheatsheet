@@ -1,7 +1,7 @@
-androidstudio4maccheatsheet
-===========================
+Android Studio for Mac Cheat sheet
+==================================
 
-Android Studio for Mac Cheat sheet lists all most useful keyboard shortcut by default in Android Studio.
+Most useful keyboard shortcuts with default keymap in Android Studio.
 
 
 <!-- Mac symbols for fast copy-paste contributions
