@@ -22,7 +22,8 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
 | New Class        | ⌘ N           | Project  tab  | 
 | Generate code    | ⌘ N           | Java File     | 
 | Show docs        | ⌃ Q           |               | 
-| Action look-up   | ⇧ ⌘ A         |               | 
+| Action look-up   | ⇧ ⌘ A         |               |
+| Run              | ⌃ R           |               |
 
 ### Navigation
 
