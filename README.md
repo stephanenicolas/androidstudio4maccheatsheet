@@ -3,6 +3,14 @@ androidstudio4maccheatsheet
 
 Android Studio for Mac Cheat sheet lists all most useful keyboard shortcut by default in Android Studio.
 
+
+<!-- Mac symbols for fast copy-paste contributions
+ CTRL    : ⌃
+ Option  : ⌥
+ Command : ⌘
+ Shift   : ⇧ 
+-->
+
 ### Quick fixes / Must knows
 
 | Action           | Keys          | Context       | 
@@ -12,11 +20,12 @@ Android Studio for Mac Cheat sheet lists all most useful keyboard shortcut by de
 | Indent lines     | ⌃ ⌥ I         |               |
 | Reformat code    | ⌥ ⌘ L         |               | 
 | New Class        | ⌘ N           | Project  tab  | 
-| New Class        | ⌘ N           | Java File     | 
+| Generate code    | ⌘ N           | Java File     | 
 | Show docs        | ⌃ Q           |               | 
-| Command look-up  | ⇧ ⌘ A         |               | 
+| Action look-up   | ⇧ ⌘ A         |               | 
 
 ### Navigation
+
 | Action           | Keys          | Context       | 
 | ---------------- | ------------- |:-------------:|
 | Open class       | ⌘ O           |               | 
@@ -34,16 +43,41 @@ Android Studio for Mac Cheat sheet lists all most useful keyboard shortcut by de
 | Extract Constant | ⌥ ⌘ C         |               |
 | Extract Parameter| ⌥ ⌘ P         |               |
 | Extract Method   | ⌥ ⌘ M         |               |
+
+
+### Code generation
+
+| Action           | Keys          | Context       | 
+| ---------------- | ------------- |:-------------:|
+| Generate code    | ⌘ N           | Java File     | 
+| Insert template  | ⌘ J           |               |
 | Surround with    | ⌥ ⌘ T         |               |
 
+### Search
+
+| Action            | Keys          | Context       | 
+| ----------------  | ------------- |:-------------:|
+| Search everywhere | ⇧ ⇧           |               | 
+| Find usages       | ⌥ F7          |               | 
+| Search in file    | ⌘ F           |               | 
+| Search in path    | ⇧ ⌘ F         |               | 
+
+### Edition
+
+| Action              | Keys          | Context       | 
+| ------------------- | ------------- |:-------------:|
+| Move line up        | ⇧ ⌥ ↑         |               | 
+| Move line down      | ⇧ ⌥ ↓         |               |
+| Move statement up   | ⇧ ⌘ ↑         |               | 
+| Move statement down | ⇧ ⌘ ↓         |               | 
+| Delete line         | ⇧ ⌫           |               | 
 
 
+### Git / SCM
+
+| Action              | Keys          | Context        | 
+| ------------------- | ------------- |:--------------:|
+| View changes        | ⇧ 9           |                | 
+| View diff           | ⌘ D           | In changes tab | 
 
 
-
-<!-- Mac symbols for fast copy-paste contributions
- CTRL    : ⌃
- Option  : ⌥
- Command : ⌘
- Shift   : ⇧ 
--->
