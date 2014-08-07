@@ -1,4 +1,4 @@
-Android Studio for Mac Cheat sheet
+dAndroid Studio for Mac Cheat sheet
 ==================================
 
 Most useful keyboard shortcuts with default keymap in Android Studio.
@@ -23,7 +23,7 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
 | Generate code    | ⌘ N           | Java File     | 
 | Show docs        | ⌃ Q           |               | 
 | Action look-up   | ⇧ ⌘ A         |               |
-| Run              | ⌃ R           |               |
+| Rund              | ⌃ R           |               |
 
 ### Navigation
 
@@ -71,7 +71,7 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
 | Move line down      | ⇧ ⌥ ↓         |               |
 | Move statement up   | ⇧ ⌘ ↑         |               | 
 | Move statement down | ⇧ ⌘ ↓         |               | 
-| Delete line         | ⇧ ⌫           |               | 
+| Delete line         | ⌘ ⌫           |               | 
 
 
 ### Git / SCM
