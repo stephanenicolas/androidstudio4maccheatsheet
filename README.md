@@ -23,7 +23,7 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
 | Generate code    | ⌘ N           | Java File     | 
 | Show docs        | ⌃ Q           |               | 
 | Action look-up   | ⇧ ⌘ A         |               |
-| Rund              | ⌃ R           |               |
+| Run              | ⌃ R           |               |
 
 ### Navigation
 
