@@ -9,6 +9,7 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
  Option  : ⌥
  Command : ⌘
  Shift   : ⇧ 
+ others  : http://macbiblioblog.blogspot.com/2005/05/special-key-symbols.html
 -->
 
 ### Quick fixes / Must knows
@@ -27,11 +28,18 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
 
 ### Navigation
 
-| Action           | Keys          | Context       | 
-| ---------------- | ------------- |:-------------:|
-| Open class       | ⌘ O           |               | 
-| Open file        | ⇧ ⌘ O         |               |  
-| Go to line       | ⌘ L           |               |
+| Action                  | Keys          | Context       | 
+| ----------------------- | ------------- |:-------------:|
+| Open class              | ⌘ O           |               | 
+| Open file               | ⇧ ⌘ O         |               |  
+| Go to line              | ⌘ L           |               |
+| Go to declaration       | ⌘ B           |               |
+| Go to implementation    | ⌥ ⌘ B         |               |
+| Go to type declaration  | ⌃ ⇧ B         |               |
+| Go to super             | ⌘ U           |               |
+| Go to test              | ⇧ ⌘ T         |               |
+| Go backward             | ⌥ ⌘ ←         |               |
+| Go forward              | ⌥ ⌘ →         |               |
 
 ### Refactoring
 
@@ -62,6 +70,8 @@ Most useful keyboard shortcuts with default keymap in Android Studio.
 | Find usages       | ⌥ F7          |               | 
 | Search in file    | ⌘ F           |               | 
 | Search in path    | ⇧ ⌘ F         |               | 
+| Replace in file   | ⌘ R           |               | 
+| Replace in path   | ⇧ ⌘ R         |               | 
 
 ### Edition
 
