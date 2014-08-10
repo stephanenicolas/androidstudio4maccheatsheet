@@ -1,4 +1,4 @@
-dAndroid Studio for Mac Cheat sheet
+Android Studio for Mac Cheat sheet
 ==================================
 
 Most useful keyboard shortcuts with default keymap in Android Studio.
