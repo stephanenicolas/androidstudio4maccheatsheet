@@ -1,7 +1,7 @@
 Android Studio for Mac Cheat sheet
 ==================================
 
-*This project is discontinued as a much better project is available here* : 
+***This project is discontinued as a much better project is available here*** : 
 http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/
 
 ---
